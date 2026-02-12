@@ -1,0 +1,30 @@
+{
+  "name": "finance-api-pro3",
+  "version": "1.0.0",
+  "description": "Professional Financial Management API - Advanced structure with Node.js, TypeScript, PostgreSQL, and Prisma .// API de Gestão Financeira Profissional - Estrutura avançada com Node.js, TypeScript, PostgreSQL e Prisma",
+  "main": "index.js",
+  "scripts": {
+"dev": "ts-node-dev --transpile-only --ignore-watch node_modules src/server.ts" 
+ },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leticial8/finance-api-pro3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/leticial8/finance-api-pro3/issues"
+  },
+  "homepage": "https://github.com/leticial8/finance-api-pro3#readme",
+  "devDependencies": {
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.2.3",
+    "express": "^5.2.1",
+    "prisma": "^7.4.0",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.9.3"
+  }
+}
+
