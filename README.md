@@ -15,7 +15,8 @@ This is a high-level backend application for financial management, built with a 
 4. Run migrations: `npx prisma migrate dev`
 5. Start the server: `npm run dev`
 
-www.linkedin.com/in/leticia-costa-038861119
+6. www.linkedin.com/in/leticia-costa-038861119
+
 ---
 
 #  API de Gestão Financeira Profissional
